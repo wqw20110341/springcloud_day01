@@ -1,0 +1,8 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/cloud_user?userSSL=false
+    username: root
+    password: 1234%^&*gd
+    driver-class-name: com.mysql.jdbc.Driver

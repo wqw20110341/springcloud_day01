@@ -1,0 +1,15 @@
+# 应用名称
+# 数据库驱动：
+spring:
+  application:
+    name: OrderApplication
+  datasource:
+    url: jdbc:mysql://localhost:3306/blue?serverTimezone=UTC
+    username: root
+    password: 1234%^&*gd
+    driver-class-name: com.mysql.jdbc.Driver
+
+server:
+  port: 8081
+
+
