@@ -9,6 +9,11 @@ spring:
     username: root
     password: 1234%^&*gd
 
+
+  redis:
+    port: 6379
+    host: 127.0.0.1
+
 #下面这些内容是为了让MyBatis映射
 ##指定Mybatis的Mapper文件
 #mybatis:

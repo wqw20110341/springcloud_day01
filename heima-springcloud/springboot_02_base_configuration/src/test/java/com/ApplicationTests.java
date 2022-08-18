@@ -1,4 +1,4 @@
-package com.www;
+package com;
 
 import com.Application;
 import com.dao.impl.BookDaoImpl;
