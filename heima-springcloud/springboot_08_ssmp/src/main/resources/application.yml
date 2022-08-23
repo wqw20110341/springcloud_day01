@@ -10,6 +10,12 @@ spring:
       driver-class-name: com.mysql.jdbc.Driver
       username: root
       password: 1234%^&*gd
+  devtools:
+    restart:
+      # 设置不参与热部署的文件或文件夹
+      exclude: static/**,public/**
+      enabled: true
+
 
 mybatis-plus:
   global-config:

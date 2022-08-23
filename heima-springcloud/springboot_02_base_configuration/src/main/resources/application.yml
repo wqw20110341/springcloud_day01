@@ -17,7 +17,22 @@ tempDir: ${baseDir}\temp
 tempDir2: "${baseDir}\temp"
 
 datasource:
-  driver: com.mysql.jdbc.Driver
-  url: jdbc:mysql://localhost/springboot/db
-  username: root
-  password: 123456
+  driverClassName: com.mysql.jdbc.device456
+#  driver: com.mysql.jdbc.Driver
+#  url: jdbc:mysql://localhost/springboot/db
+#  username: root
+  password: 0127
+
+servers:
+  ipAddress: 192.168.0.1
+#  ip_address: 192.168.0.1
+#  ip-address: 192.168.0.1  # 烤肉串模式———————— 0-0-0-0-0  ………………
+#  ipaddress: 192.168.0.1
+#  IPADDRESS: 192.168.0.1
+#  IP_ADDRESS: 192.168.0.1
+  port: 5345
+  timeout: 22
+  server-time-out: 300
+  data-size: 20
+  password: 0127
+
