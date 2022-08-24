@@ -17,6 +17,7 @@
         <module>order-application</module>
         <module>spring-start</module>
         <module>springboot-14-test</module>
+        <module>springboot-15-sql</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

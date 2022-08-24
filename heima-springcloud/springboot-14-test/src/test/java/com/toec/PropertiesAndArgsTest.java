@@ -1,6 +1,8 @@
 package com.toec;
 
+import com.toec.testcase.domain.BookCase;
 import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.test.context.SpringBootTest;
 
@@ -13,9 +15,13 @@ public class PropertiesAndArgsTest {
     @Value("${test.prop}")
     private String msg;
 
+    @Autowired
+    private BookCase bookCase;
+
     @Test
     public void testProperties(){
         System.out.println("==========="+msg);
+        System.out.println(bookCase);
     }
 
 }
