@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/heima-springcloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/consumer-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/consumer-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/heima-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/heima-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/order-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/spring-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/spring-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot-14-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot-14-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot-15-sql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot-16-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot-16-redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot-17-mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot-20-jetcache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot-21-j2cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot-22-task/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot_02_base_configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot_02_base_configuration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot_03_mybits/${project.basedir}/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot_03_mybits/${project.basedir}/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot_03_mybits/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot_03_mybits/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot_08_ssmp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/springboot_08_ssmp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-springcloud/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/http-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/http-demo/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

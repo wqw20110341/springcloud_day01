@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-17-mongodb" />
+        <module name="springboot-22-task" />
+        <module name="springboot_03_mybits" />
+        <module name="springboot-14-test" />
+        <module name="springboot-16-redis" />
+        <module name="user-service" />
+        <module name="springboot_08_ssmp" />
+        <module name="eureka-server" />
+        <module name="springboot-15-sql" />
+        <module name="config-server" />
+        <module name="heima-gateway" />
+        <module name="http-demo" />
+        <module name="consumer-demo" />
+        <module name="order-application" />
+        <module name="springboot-20-jetcache" />
+        <module name="springboot-21-j2cache" />
+        <module name="spring-start" />
+        <module name="springboot_02_base_configuration" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-server" target="1.8" />
+      <module name="consumer-demo" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="heima-gateway" target="1.8" />
+      <module name="heima-springcloud" target="1.8" />
+      <module name="http-demo" target="1.8" />
+      <module name="order-application" target="1.8" />
+      <module name="spring-start" target="1.8" />
+      <module name="springboot-14-test" target="1.8" />
+      <module name="springboot-15-sql" target="1.8" />
+      <module name="springboot-16-redis" target="1.8" />
+      <module name="springboot-17-mongodb" target="1.8" />
+      <module name="springboot-20-jetcache" target="1.8" />
+      <module name="springboot-21-j2cache" target="1.8" />
+      <module name="springboot-22-task" target="1.8" />
+      <module name="springboot_02_base_configuration" target="1.8" />
+      <module name="springboot_03_mybits" target="1.5" />
+      <module name="springboot_08_ssmp" target="1.8" />
+      <module name="user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-server" options="-parameters" />
+      <module name="consumer-demo" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="heima-gateway" options="-parameters" />
+      <module name="http-demo" options="-parameters" />
+      <module name="order-application" options="-parameters" />
+      <module name="spring-start" options="-parameters" />
+      <module name="springboot-14-test" options="-parameters" />
+      <module name="springboot-15-sql" options="-parameters" />
+      <module name="springboot-16-redis" options="-parameters" />
+      <module name="springboot-17-mongodb" options="-parameters" />
+      <module name="springboot-20-jetcache" options="-parameters" />
+      <module name="springboot-21-j2cache" options="-parameters" />
+      <module name="springboot-22-task" options="-parameters" />
+      <module name="springboot_02_base_configuration" options="-parameters" />
+      <module name="springboot_08_ssmp" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,74 @@
+# 应用名称
+server:
+  port: 80
+
+spring:
+#  h2:
+#    console:
+#      enabled: true
+#      path: /h2
+#  datasource:
+#    url: jdbc:h2:~/test
+#    hikari:
+#      driver-class-name: org.h2.Driver
+#      username: sa
+#      password: 123456
+  data:
+    elasticsearch:
+      repositories:
+        enabled: true
+  elasticsearch:
+    rest:
+      uris: http://localhost:9200
+#  elasticsearch:
+#    rest:
+#      uris: http://localhost:9200
+
+
+#
+#spring:
+  datasource:
+    druid:
+      name: defaultDataSource
+      url: jdbc:mysql://localhost:3306/jdbc?serverTimezone=UTC
+      driver-class-name: com.mysql.jdbc.Driver
+      username: root
+      password: 1234%^&*gd
+#  devtools:
+#    restart:
+#      # 设置不参与热部署的文件或文件夹
+#      exclude: static/**,public/**
+#      enabled: true
+  jdbc:
+    template:
+      fetch-size: 50
+      query-timeout: 3000
+  cache:
+    type: redis
+    redis:
+      time-to-live: 10s
+#      use-key-prefix: true
+      cache-null-values: true
+#      enable-statistics: true
+      key-prefix: "sms_"
+  redis:
+    port: 6379
+    host: localhost
+
+
+# ehcache 配置方法
+#  cache:
+#    type: ehcache
+#    ehcache:
+#      config: ehcache.xml
+#
+#
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: tb1_ # 对应数据库表增加字段
+      id-type: auto  # 配置id自增策略
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+

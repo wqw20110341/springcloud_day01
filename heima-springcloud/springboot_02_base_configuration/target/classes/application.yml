@@ -1,0 +1,38 @@
+server:
+  port: 80
+
+country: china
+
+users:
+  name: zhangSan
+  age: 19
+
+
+baseDir: c:\windows
+
+# \u4F7F\u7528${\u5C5E\u6027\u540D}  \u5F15\u7528\u6570\u636E\u4FE1\u606F
+tempDir: ${baseDir}\temp
+
+#\u4F7F\u7528\u5F15\u53F7\u5305\u88F9\u7684\u5B57\u7B26\u4E32\uFF0C\u5176\u4E2D\u7684\u8F6C\u4E49\u5B57\u7B26\u53EF\u4EE5\u751F\u6548
+tempDir2: "${baseDir}\temp"
+
+datasource:
+  driverClassName: com.mysql.jdbc.device456
+#  driver: com.mysql.jdbc.Driver
+#  url: jdbc:mysql://localhost/springboot/db
+#  username: root
+  password: 0127
+
+servers:
+  ipAddress: 192.168.0.1
+#  ip_address: 192.168.0.1
+#  ip-address: 192.168.0.1  # 烤肉串模式———————— 0-0-0-0-0  ………………
+#  ipaddress: 192.168.0.1
+#  IPADDRESS: 192.168.0.1
+#  IP_ADDRESS: 192.168.0.1
+  port: 5345
+  timeout: 22
+  server-time-out: 300
+  data-size: 20
+  password: 0127
+

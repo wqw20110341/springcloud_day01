@@ -1,0 +1,64 @@
+{
+  "groups": [
+    {
+      "name": "datasource",
+      "type": "com.toec.controller.MyDataSource",
+      "sourceType": "com.toec.controller.MyDataSource"
+    },
+    {
+      "name": "servers",
+      "type": "com.toec.config.ServerConfig",
+      "sourceType": "com.toec.config.ServerConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "datasource.driver",
+      "type": "java.lang.String",
+      "sourceType": "com.toec.controller.MyDataSource"
+    },
+    {
+      "name": "datasource.password",
+      "type": "java.lang.String",
+      "sourceType": "com.toec.controller.MyDataSource"
+    },
+    {
+      "name": "datasource.url",
+      "type": "java.lang.String",
+      "sourceType": "com.toec.controller.MyDataSource"
+    },
+    {
+      "name": "datasource.username",
+      "type": "java.lang.String",
+      "sourceType": "com.toec.controller.MyDataSource"
+    },
+    {
+      "name": "servers.data-size",
+      "type": "org.springframework.util.unit.DataSize",
+      "sourceType": "com.toec.config.ServerConfig"
+    },
+    {
+      "name": "servers.ip-address",
+      "type": "java.lang.String",
+      "sourceType": "com.toec.config.ServerConfig"
+    },
+    {
+      "name": "servers.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.toec.config.ServerConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "servers.server-time-out",
+      "type": "java.time.Duration",
+      "sourceType": "com.toec.config.ServerConfig"
+    },
+    {
+      "name": "servers.timeout",
+      "type": "java.lang.Long",
+      "sourceType": "com.toec.config.ServerConfig",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/config-server/config-server.iml" filepath="$PROJECT_DIR$/heima-springcloud/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/consumer-demo/consumer-demo.iml" filepath="$PROJECT_DIR$/heima-springcloud/consumer-demo/consumer-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/heima-springcloud/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/heima-gateway/heima-gateway.iml" filepath="$PROJECT_DIR$/heima-springcloud/heima-gateway/heima-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/heima-springcloud.iml" filepath="$PROJECT_DIR$/heima-springcloud/heima-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-demo/http-demo.iml" filepath="$PROJECT_DIR$/http-demo/http-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/order-application/order-application.iml" filepath="$PROJECT_DIR$/heima-springcloud/order-application/order-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/spring-start/spring-start.iml" filepath="$PROJECT_DIR$/heima-springcloud/spring-start/spring-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/springboot-14-test/springboot-14-test.iml" filepath="$PROJECT_DIR$/heima-springcloud/springboot-14-test/springboot-14-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/springboot-15-sql/springboot-15-sql.iml" filepath="$PROJECT_DIR$/heima-springcloud/springboot-15-sql/springboot-15-sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/springboot-16-redis/springboot-16-redis.iml" filepath="$PROJECT_DIR$/heima-springcloud/springboot-16-redis/springboot-16-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/springboot-17-mongodb/springboot-17-mongodb.iml" filepath="$PROJECT_DIR$/heima-springcloud/springboot-17-mongodb/springboot-17-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/springboot-20-jetcache/springboot-20-jetcache.iml" filepath="$PROJECT_DIR$/heima-springcloud/springboot-20-jetcache/springboot-20-jetcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/springboot-21-j2cache/springboot-21-j2cache.iml" filepath="$PROJECT_DIR$/heima-springcloud/springboot-21-j2cache/springboot-21-j2cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/springboot-22-task/springboot-22-task.iml" filepath="$PROJECT_DIR$/heima-springcloud/springboot-22-task/springboot-22-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/springboot_02_base_configuration/springboot_02_base_configuration.iml" filepath="$PROJECT_DIR$/heima-springcloud/springboot_02_base_configuration/springboot_02_base_configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/springboot_03_mybits/springboot_03_mybits.iml" filepath="$PROJECT_DIR$/heima-springcloud/springboot_03_mybits/springboot_03_mybits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/springboot_08_ssmp/springboot_08_ssmp.iml" filepath="$PROJECT_DIR$/heima-springcloud/springboot_08_ssmp/springboot_08_ssmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-springcloud/user-service/user-service.iml" filepath="$PROJECT_DIR$/heima-springcloud/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>
