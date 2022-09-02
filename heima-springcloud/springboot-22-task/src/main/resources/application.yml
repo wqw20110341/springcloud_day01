@@ -1,0 +1,10 @@
+# 应用名称
+server:
+  port: 80
+spring:
+  task:
+    scheduling:
+      pool:
+        size: 20
+    execution:
+      thread-name-prefix: spring_tasks_

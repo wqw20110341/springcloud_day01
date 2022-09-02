@@ -1,0 +1,15 @@
+# 应用名称
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://127.0.0.1/newDb
+      host: 127.0.0.1
+      port: 27017
+#      database:
+
+
+
+
+
+

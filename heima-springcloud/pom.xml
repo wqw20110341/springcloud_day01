@@ -18,18 +18,23 @@
         <module>spring-start</module>
         <module>springboot-14-test</module>
         <module>springboot-15-sql</module>
+        <module>springboot-16-redis</module>
+        <module>springboot-17-mongodb</module>
+        <module>springboot-20-jetcache</module>
+        <module>springboot-21-j2cache</module>
+        <module>springboot-22-task</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.1.5.RELEASE</version>
+        <version>2.7.0</version>
         <relativePath/>
     </parent>
 
     <properties>
         <java.version>1.8</java.version>
         <spring-cloud.version>Greenwich.SR1</spring-cloud.version>
-        <mapper.starter.version>2.1.5</mapper.starter.version>
+        <mapper.starter.version>2.7.0</mapper.starter.version>
         <mysql.version>5.1.46</mysql.version>
         <swagger.version>2.2.2</swagger.version>
     </properties>
